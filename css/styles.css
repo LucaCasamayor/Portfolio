@@ -751,3 +751,25 @@ body::before {
     letter-spacing: 0.3px;
 }
 
+footer {
+    background-color: #1f1f1f; /* Oscuro pero no negro */
+    color: #f1f1f1; /* Texto claro para contraste */
+    text-align: center;
+    padding: 2rem 1rem;
+    font-size: 0.95rem;
+    letter-spacing: 0.5px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    margin-top: 4rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer p {
+    margin: 0;
+    opacity: 0.85;
+    transition: opacity 0.3s ease;
+}
+
+footer p:hover {
+    opacity: 1;
+}
+
