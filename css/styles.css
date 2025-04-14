@@ -226,7 +226,7 @@ body::before {
     display: flex;
     align-items: center;
     gap: 0.6rem;
-    background-color: rgba(154, 154, 154, 0.49);
+    background-color: rgb(210, 210, 210);
     border:0.5px solid rgba(0, 0, 0, 0.34);
     border-radius: 30px;
     padding: 0.7rem 1rem;
@@ -615,7 +615,7 @@ body::before {
     margin-bottom: 40px;
     font-family: 'Playfair Display', serif;
     position: relative;
-    color: var(--backgroundDark);
+    color: var(--textSoft);
 }
 
 .contact-title::after {
