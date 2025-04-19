@@ -98,7 +98,7 @@ body::before {
     transition: letter-spacing 0.3s ease, color 0.3s ease;
     position: relative;
     white-space: nowrap; /* Esto fuerza que no salten de línea */
-    padding: 5px 0;
+    padding: 5px 2px;
 }
 
 /* Animación en hover: expansión de letras */
@@ -765,11 +765,12 @@ footer p:hover {
     .nav_links a {
         font-size: 20px;
         letter-spacing: 1px;
-        margin-outside: 8px;
+        margin-outside: 4px;
     }
 
     .nav_links {
         gap: 25px;
+        padding: 10px 2px;
     }
 
     .section {
@@ -830,7 +831,7 @@ footer p:hover {
 
     .nav_links {
         gap: 15px;
-        padding: 8px 0;
+        padding: 8px 2px;
         justify-content: space-around;
     }
 
@@ -838,9 +839,8 @@ footer p:hover {
         font-size: 12px;
         gap: 10px;
         padding: 3px 0;
-        margin-outside: 8px;
+        margin-outside: 4px;
         letter-spacing: 1px;
-        padding: 3px 0;
     }
 
     .nav_links a:hover {
@@ -1052,7 +1052,7 @@ footer p:hover {
 
     .nav_links a {
         font-size: 14px;
-        margin-outside: 6px;
+        margin-outside: 3px;
     }
 
     .pro-pic {
