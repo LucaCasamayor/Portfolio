@@ -837,6 +837,7 @@ footer p:hover {
         font-size: 12px;
         gap: 10px;
         padding: 3px 0;
+        margin-outside: 5px;
         letter-spacing: 1px;
         padding: 3px 0;
     }
