@@ -765,6 +765,7 @@ footer p:hover {
     .nav_links a {
         font-size: 20px;
         letter-spacing: 1px;
+        margin-outside: 8px;
     }
 
     .nav_links {
@@ -837,7 +838,7 @@ footer p:hover {
         font-size: 12px;
         gap: 10px;
         padding: 3px 0;
-        margin-outside: 5px;
+        margin-outside: 8px;
         letter-spacing: 1px;
         padding: 3px 0;
     }
@@ -1051,6 +1052,7 @@ footer p:hover {
 
     .nav_links a {
         font-size: 14px;
+        margin-outside: 6px;
     }
 
     .pro-pic {
