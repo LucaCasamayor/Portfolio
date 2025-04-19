@@ -91,7 +91,7 @@ body::before {
 /* Estilo de los enlaces */
 .nav_links a {
     color: var(--backgroundDark);
-    font-size: 24px;
+    font-size: 20px;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 2px;
